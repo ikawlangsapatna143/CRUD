@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4>Student Details
+                        <h4>Student BSIS3 
                             <a href="student-create.php" class="btn btn-primary float-end">Add Students</a>
 
                         </h4>
